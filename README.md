@@ -1,3 +1,23 @@
+## Wandb Dashboard Screenshots
+
+![1](output_images/1.png)
+
+![2](output_images/2.png)
+
+![3](output_images/3.png)
+
+![4](output_images/4.png)
+
+![5](output_images/5.png)
+
+![6](output_images/6.png)
+
+![7](output_images/7.png)
+
+![8](output_images/8.png)
+
+![9](output_images/9.png)
+
 ## Report
 
 ### 1. What are the common distance metrics used in distance-based classification algorithms? 

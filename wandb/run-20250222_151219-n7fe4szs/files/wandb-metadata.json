@@ -1,0 +1,44 @@
+{
+  "os": "macOS-14.2.1-arm64-arm-64bit-Mach-O",
+  "python": "CPython 3.13.2",
+  "startedAt": "2025-02-22T09:42:20.466110Z",
+  "program": "/Users/mishikasood/Desktop/distance_classification/Lab 5-Spring 2025.ipynb",
+  "codePath": "Lab 5-Spring 2025.ipynb",
+  "git": {
+    "remote": "https://github.com/zhsimyrrehs/distance_classification.git",
+    "commit": "1bf1f66e47b3fc85a2b3faa3e80cf0a80c12bf04"
+  },
+  "email": "mishika.sood.ug23@plaksha.edu.in",
+  "root": "/Users/mishikasood/Desktop/distance_classification",
+  "host": "Mishikas-MacBook-Air.local",
+  "executable": "/Users/mishikasood/Desktop/distance_classification/venv/bin/python",
+  "codePathLocal": "Lab 5-Spring 2025.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "201788968960"
+    },
+    "/System/Volumes/Data": {
+      "total": "245107195904",
+      "used": "201788968960"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 8,
+    "swapTotalBytes": "7516192768",
+    "ramTotalBytes": "8589934592"
+  }
+}

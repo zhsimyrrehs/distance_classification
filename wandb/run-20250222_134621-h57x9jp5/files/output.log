@@ -1,3 +1,15 @@
 [34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
 [34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
 [ WARN:0@966.052] global loadsave.cpp:268 findDecoder imread_('Dr_Shashi_Throor.jpg'): can't open/read file: check file path/integrity
+Traceback (most recent call last):
+  File "/Users/mishikasood/Desktop/distance_classification/venv/lib/python3.13/site-packages/IPython/core/completer.py", line 3246, in _complete
+    result = matcher(context)
+  File "/Users/mishikasood/Desktop/distance_classification/venv/lib/python3.13/site-packages/IPython/core/completer.py", line 2139, in magic_matcher
+    matches = self.magic_matches(text)
+  File "/Users/mishikasood/Desktop/distance_classification/venv/lib/python3.13/site-packages/IPython/core/completer.py", line 2172, in magic_matches
+    global_matches = self.global_matches(bare_text)
+  File "/Users/mishikasood/Desktop/distance_classification/venv/lib/python3.13/site-packages/IPython/core/completer.py", line 1114, in global_matches
+    for word in lst:
+                ^^^
+RuntimeError: dictionary changed size during iteration
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
