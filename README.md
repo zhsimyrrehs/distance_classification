@@ -1,3 +1,5 @@
+## Report
+
 ### 1. What are the common distance metrics used in distance-based classification algorithms? 
 
 <h5> Some common distance metrics used in distance-based classification algorithms are: Euclidean distance, Manhattan distance, Minkowski distance, Hamming distance, Cosine similarity, Mahalanobis distance, Chebyshev Distance
